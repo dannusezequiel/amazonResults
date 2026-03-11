@@ -1,0 +1,6 @@
+# Arquivos Excel
+*.xlsx
+
+# Pasta de resultados
+/resultados/
+resultados/
